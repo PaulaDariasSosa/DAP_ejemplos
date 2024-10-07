@@ -1,0 +1,287 @@
+{
+    "Cars": [
+      {
+        "name": "Toyota Corolla",
+        "type": "Sedan",
+        "km": 12000,
+        "colour": "Red"
+      },
+      {
+        "name": "Ford Mustang",
+        "type": "Coupe",
+        "km": 5000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Chevrolet Camaro",
+        "type": "Coupe",
+        "km": 8000,
+        "colour": "Yellow"
+      },
+      {
+        "name": "Honda Civic",
+        "type": "Sedan",
+        "km": 15000,
+        "colour": "Black"
+      },
+      {
+        "name": "Tesla Model S",
+        "type": "Sedan",
+        "km": 1000,
+        "colour": "White"
+      },
+      {
+        "name": "BMW X5",
+        "type": "SUV",
+        "km": 3000,
+        "colour": "Silver"
+      },
+      {
+        "name": "Audi A4",
+        "type": "Sedan",
+        "km": 22000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Nissan Altima",
+        "type": "Sedan",
+        "km": 18000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Mazda CX-5",
+        "type": "SUV",
+        "km": 12000,
+        "colour": "Red"
+      },
+      {
+        "name": "Hyundai Elantra",
+        "type": "Sedan",
+        "km": 9000,
+        "colour": "Black"
+      },
+      {
+        "name": "Kia Sportage",
+        "type": "SUV",
+        "km": 15000,
+        "colour": "White"
+      },
+      {
+        "name": "Subaru Impreza",
+        "type": "Sedan",
+        "km": 25000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Volvo XC90",
+        "type": "SUV",
+        "km": 5000,
+        "colour": "Silver"
+      },
+      {
+        "name": "Jeep Wrangler",
+        "type": "SUV",
+        "km": 35000,
+        "colour": "Green"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "type": "Sedan",
+        "km": 7000,
+        "colour": "Black"
+      },
+      {
+        "name": "Volkswagen Passat",
+        "type": "Sedan",
+        "km": 6000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Porsche 911",
+        "type": "Coupe",
+        "km": 2000,
+        "colour": "Red"
+      },
+      {
+        "name": "Lexus RX",
+        "type": "SUV",
+        "km": 4000,
+        "colour": "White"
+      },
+      {
+        "name": "Jaguar F-Type",
+        "type": "Coupe",
+        "km": 3000,
+        "colour": "Black"
+      },
+      {
+        "name": "Alfa Romeo Giulia",
+        "type": "Sedan",
+        "km": 10000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Chevrolet Tahoe",
+        "type": "SUV",
+        "km": 18000,
+        "colour": "Silver"
+      },
+      {
+        "name": "Dodge Charger",
+        "type": "Sedan",
+        "km": 15000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Acura MDX",
+        "type": "SUV",
+        "km": 22000,
+        "colour": "White"
+      },
+      {
+        "name": "Ford Explorer",
+        "type": "SUV",
+        "km": 11000,
+        "colour": "Black"
+      },
+      {
+        "name": "Toyota Prius",
+        "type": "Hatchback",
+        "km": 9000,
+        "colour": "Green"
+      },
+      {
+        "name": "Honda Accord",
+        "type": "Sedan",
+        "km": 14000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Tesla Model X",
+        "type": "SUV",
+        "km": 7000,
+        "colour": "Red"
+      },
+      {
+        "name": "BMW 3 Series",
+        "type": "Sedan",
+        "km": 8000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Audi Q7",
+        "type": "SUV",
+        "km": 12000,
+        "colour": "White"
+      },
+      {
+        "name": "Nissan Rogue",
+        "type": "SUV",
+        "km": 3000,
+        "colour": "Silver"
+      },
+      {
+        "name": "Mazda MX-5",
+        "type": "Convertible",
+        "km": 5000,
+        "colour": "Red"
+      },
+      {
+        "name": "Hyundai Tucson",
+        "type": "SUV",
+        "km": 14000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Kia Sorento",
+        "type": "SUV",
+        "km": 20000,
+        "colour": "Black"
+      },
+      {
+        "name": "Subaru Forester",
+        "type": "SUV",
+        "km": 17000,
+        "colour": "Green"
+      },
+      {
+        "name": "Volvo V60",
+        "type": "Wagon",
+        "km": 10000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "type": "SUV",
+        "km": 19000,
+        "colour": "White"
+      },
+      {
+        "name": "Mercedes-Benz GLE",
+        "type": "SUV",
+        "km": 8000,
+        "colour": "Black"
+      },
+      {
+        "name": "Volkswagen Golf",
+        "type": "Hatchback",
+        "km": 6000,
+        "colour": "Silver"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "type": "SUV",
+        "km": 4000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Lexus IS",
+        "type": "Sedan",
+        "km": 25000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Jaguar XE",
+        "type": "Sedan",
+        "km": 7000,
+        "colour": "Red"
+      },
+      {
+        "name": "Alfa Romeo Stelvio",
+        "type": "SUV",
+        "km": 9000,
+        "colour": "White"
+      },
+      {
+        "name": "Chevrolet Suburban",
+        "type": "SUV",
+        "km": 12000,
+        "colour": "Black"
+      },
+      {
+        "name": "Dodge Durango",
+        "type": "SUV",
+        "km": 17000,
+        "colour": "Gray"
+      },
+      {
+        "name": "Acura RDX",
+        "type": "SUV",
+        "km": 15000,
+        "colour": "Blue"
+      },
+      {
+        "name": "Ford F-150",
+        "type": "Pickup",
+        "km": 22000,
+        "colour": "Red"
+      },
+      {
+        "name": "Toyota Tacoma",
+        "type": "Pickup",
+        "km": 8000,
+        "colour": "Silver"
+      }
+    ]
+  }
+  
